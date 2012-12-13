@@ -1,0 +1,14 @@
+Changes
+INSTALL
+lib/Flexible/Scripting/Tools.pm
+Makefile.PL
+MANIFEST
+MYMETA.json
+MYMETA.yml
+README
+t/false.t
+t/true.t
+TEST-INSTALL
+Test.POD
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
